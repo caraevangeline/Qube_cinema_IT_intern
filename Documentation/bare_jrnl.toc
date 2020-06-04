@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Requirements}{2}
+\contentsline {section}{\numberline {3}How to Start}{2}
+\contentsline {section}{\numberline {4}Database - Back End}{2}
+\contentsline {subsection}{\numberline {4.1}Description of Tables}{2}
+\contentsline {section}{\numberline {5}Name of the files used }{3}
+\contentsline {section}{\numberline {6}Flowchart}{3}
+\contentsline {section}{\numberline {7}Details}{4}
+\contentsline {subsection}{\numberline {7.1}main.php}{4}
+\contentsline {subsection}{\numberline {7.2}dashboard.php}{4}
+\contentsline {subsection}{\numberline {7.3}direct1.php}{5}
+\contentsline {subsection}{\numberline {7.4}direct.php}{5}
+\contentsline {subsection}{\numberline {7.5}piedirect1.php}{6}
+\contentsline {subsection}{\numberline {7.6}piedirect.php}{6}
+\contentsline {subsection}{\numberline {7.7}img.php/img1.php}{6}
+\contentsline {subsection}{\numberline {7.8}edit.php/edit1.php}{7}
+\contentsline {subsection}{\numberline {7.9}pdf.php/pdf1.php}{8}
+\contentsline {subsection}{\numberline {7.10}dbConfig.php}{8}
+\contentsline {subsection}{\numberline {7.11}header.php}{8}
+\contentsline {subsection}{\numberline {7.12}incident2.php}{9}
+\contentsline {subsection}{\numberline {7.13}form.php}{10}
+\contentsline {subsection}{\numberline {7.14}admin.php}{10}
+\contentsline {subsection}{\numberline {7.15}database1.php/database3.php}{11}
+\contentsline {subsection}{\numberline {7.16}view.php/view1.php}{11}
+\contentsline {subsubsection}{\numberline {7.16.1}Based on Technician, Ticketno, Category, Technician and Category}{11}
+\contentsline {subsubsection}{\numberline {7.16.2}Based on period and status}{11}
+\contentsline {subsection}{\numberline {7.17}category.php}{12}
+\contentsline {subsection}{\numberline {7.18}status.php}{12}
+\contentsline {subsection}{\numberline {7.19}level.php}{13}
+\contentsline {subsection}{\numberline {7.20}mode.php}{14}
+\contentsline {subsection}{\numberline {7.21}priority.php}{14}
+\contentsline {subsection}{\numberline {7.22}mail.php}{15}
+\contentsline {section}{\numberline {8}References}{15}

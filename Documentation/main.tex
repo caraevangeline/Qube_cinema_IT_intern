@@ -1,0 +1,40 @@
+\documentclass[12pt]{report} %% Remove demo in your file.
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{
+a4paper,
+total={170mm,257mm},
+left=20mm,
+top=20mm,
+}
+\usepackage{lipsum}% Used for dummy text.
+%\definecolor{titlepagecolor}{cmyk}{1,.60,0,.40}
+\definecolor{titlepagecolor}{cmyk}{		1.00,	0.50,	0.00,   0.00}
+\definecolor{namecolor}{cmyk}{1,.50,0,.10} 
+%-----------------------------------------------------------------
+\begin{document}
+% ----------------------------------------------------------------
+\begin{titlepage}
+\newgeometry{left=7.5cm} %defines the geometry for the titlepage
+\pagecolor{titlepagecolor}
+\noindent
+\includegraphics[width=2cm]{logo.png}\\[-1em]
+\color{white}
+\makebox[0pt][l]{\rule{1.3\textwidth}{1pt}}
+\par
+\noindent
+\textbf{\textsf{Qube Cinema Technologies}} \textcolor{namecolor}{\textsf{}}
+\vfill
+\noindent
+{\huge \textsf{ITSM Portal - Documentation}}
+\vskip\baselineskip
+\noindent
+\textsf{C.Cara Evangeline}
+\end{titlepage}
+\restoregeometry % restores the geometry
+\nopagecolor% Use this to restore the color pages to white
+% ----------------------------------------------------------------
+
+\end{document}

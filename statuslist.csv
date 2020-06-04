@@ -1,0 +1,6 @@
+In Progress,Problem is attended and i …,Running
+On Hold,Request OnHold,Stop
+Open,Request Pending,Running
+Closed,Request Completed,
+Resolved,"Request Resolved, waiting ...",
+WFC,Waiting for User confirma ...,

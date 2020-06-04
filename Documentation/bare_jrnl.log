@@ -1,0 +1,701 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.9)  13 JUL 2018 17:40
+entering extended mode
+**./bare_jrnl.tex
+(bare_jrnl.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box26
+\multicol@leftmargin=\dimen105
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen106
+\page@free=\dimen107
+\premulticols=\dimen108
+\postmulticols=\dimen109
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen110
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count96
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count97
+\Gm@cntv=\count98
+\c@Gm@tempcnt=\count99
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (bare_jrnl.aux
+
+LaTeX Warning: Label `Flowchart' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `bare_jrnl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen122
+\scratchbox=\box52
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen123
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks17
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+
+LaTeX Warning: No \author given.
+
+(bare_jrnl.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+\tf@toc=\write3
+\openout3 = `bare_jrnl.toc'.
+
+ [1
+
+{C:/Users/Administrator/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+\OT1/cmr/m/n/10 2.XAMPP
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--86
+
+ []
+
+[2]
+<itsm.jpeg, id=13, 759.28668pt x 393.41982pt>
+File: itsm.jpeg Graphic file (type jpg)
+<use itsm.jpeg>
+Package pdftex.def Info: itsm.jpeg  used on input line 108.
+(pdftex.def)             Requested size: 505.89pt x 262.11914pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 108--109
+ [] 
+ []
+
+<admin.jpeg, id=14, 370.38374pt x 162.6075pt>
+File: admin.jpeg Graphic file (type jpg)
+<use admin.jpeg>
+Package pdftex.def Info: admin.jpeg  used on input line 115.
+(pdftex.def)             Requested size: 289.07999pt x 126.9152pt.
+
+Overfull \hbox (45.6642pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/n/10 Note: form.php, in-ci-dent2.php, redi-rect.php and redi-rect1.p
+hp re-quires SMTP con-figua-tion, hence uses class.phpmailer.php
+ []
+
+[3 <./itsm.jpeg> <./admin.jpeg>]
+<main.png, id=18, 1168.365pt x 580.41844pt>
+File: main.png Graphic file (type png)
+<use main.png>
+Package pdftex.def Info: main.png  used on input line 125.
+(pdftex.def)             Requested size: 505.89pt x 251.31093pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 125--126
+ [] 
+ []
+
+<dashboard.png, id=19, 1204.5pt x 677.53125pt>
+File: dashboard.png Graphic file (type png)
+<use dashboard.png>
+Package pdftex.def Info: dashboard.png  used on input line 134.
+(pdftex.def)             Requested size: 505.89pt x 284.56117pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 134--135
+ [] 
+ []
+
+[4 <./main.png> <./dashboard.png>]
+<direct1.png, id=23, 1203.7472pt x 271.76532pt>
+File: direct1.png Graphic file (type png)
+<use direct1.png>
+Package pdftex.def Info: direct1.png  used on input line 145.
+(pdftex.def)             Requested size: 505.89pt x 114.21114pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+<direct1a.png, id=24, 462.22687pt x 163.3603pt>
+File: direct1a.png Graphic file (type png)
+<use direct1a.png>
+Package pdftex.def Info: direct1a.png  used on input line 152.
+(pdftex.def)             Requested size: 144.54pt x 51.08237pt.
+<direct.png, id=25, 1203.7472pt x 316.93407pt>
+File: direct.png Graphic file (type png)
+<use direct.png>
+Package pdftex.def Info: direct.png  used on input line 161.
+(pdftex.def)             Requested size: 505.89pt x 133.1936pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 161--162
+ [] 
+ []
+
+<piedirect1.png, id=26, 1204.5pt x 253.69781pt>
+File: piedirect1.png Graphic file (type png)
+<use piedirect1.png>
+Package pdftex.def Info: piedirect1.png  used on input line 171.
+(pdftex.def)             Requested size: 505.89pt x 106.55235pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 171--172
+ [] 
+ []
+
+[5 <./direct1.png> <./direct1a.png> <./direct.png>]
+<piedirect.png, id=31, 1162.3425pt x 295.85532pt>
+File: piedirect.png Graphic file (type png)
+<use piedirect.png>
+Package pdftex.def Info: piedirect.png  used on input line 182.
+(pdftex.def)             Requested size: 505.89pt x 128.76825pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 182--183
+ [] 
+ []
+
+<img.png, id=32, 1171.37625pt x 496.85625pt>
+File: img.png Graphic file (type png)
+<use img.png>
+Package pdftex.def Info: img.png  used on input line 192.
+(pdftex.def)             Requested size: 505.89pt x 214.5841pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 192--193
+ [] 
+ []
+
+[6 <./piedirect1.png> <./piedirect.png> <./img.png>]
+<edit.png, id=36, 1177.39874pt x 526.96875pt>
+File: edit.png Graphic file (type png)
+<use edit.png>
+Package pdftex.def Info: edit.png  used on input line 201.
+(pdftex.def)             Requested size: 505.89pt x 226.42328pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 201--202
+ [] 
+ []
+
+<pdf.png, id=37, 1177.39874pt x 545.03625pt>
+File: pdf.png Graphic file (type png)
+<use pdf.png>
+Package pdftex.def Info: pdf.png  used on input line 212.
+(pdftex.def)             Requested size: 505.89pt x 234.18637pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 212--213
+ [] 
+ []
+
+[7 <./edit.png>]
+<header.png, id=42, 1203.7472pt x 114.4275pt>
+File: header.png Graphic file (type png)
+<use header.png>
+Package pdftex.def Info: header.png  used on input line 223.
+(pdftex.def)             Requested size: 505.89pt x 48.0889pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 223--224
+ [] 
+ []
+
+<incident.png, id=43, 1182.66844pt x 541.27219pt>
+File: incident.png Graphic file (type png)
+<use incident.png>
+Package pdftex.def Info: incident.png  used on input line 232.
+(pdftex.def)             Requested size: 505.89pt x 231.5284pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 232--233
+ [] 
+ []
+
+[8 <./pdf.png> <./header.png>]
+<incident1.png, id=47, 1175.89313pt x 405.01312pt>
+File: incident1.png Graphic file (type png)
+<use incident1.png>
+Package pdftex.def Info: incident1.png  used on input line 239.
+(pdftex.def)             Requested size: 505.89pt x 174.24493pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 239--240
+ [] 
+ []
+
+<mail.png, id=48, 1184.17406pt x 484.81125pt>
+File: mail.png Graphic file (type png)
+<use mail.png>
+Package pdftex.def Info: mail.png  used on input line 248.
+(pdftex.def)             Requested size: 505.89pt x 207.11841pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 248--249
+ [] 
+ []
+
+<form.png, id=49, 1178.15157pt x 547.2947pt>
+File: form.png Graphic file (type png)
+<use form.png>
+Package pdftex.def Info: form.png  used on input line 256.
+(pdftex.def)             Requested size: 505.89pt x 235.00644pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 256--257
+ [] 
+ []
+
+[9 <./incident.png> <./incident1.png> <./mail.png>]
+<admin.png, id=53, 1188.69093pt x 546.54187pt>
+File: admin.png Graphic file (type png)
+<use admin.png>
+Package pdftex.def Info: admin.png  used on input line 266.
+(pdftex.def)             Requested size: 505.89pt x 232.59828pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 266--267
+ [] 
+ []
+
+<database.png, id=54, 1190.94937pt x 469.00218pt>
+File: database.png Graphic file (type png)
+<use database.png>
+Package pdftex.def Info: database.png  used on input line 274.
+(pdftex.def)             Requested size: 505.89pt x 199.21951pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 274--275
+ [] 
+ []
+
+[10 <./form.png> <./admin.png>]
+<view.png, id=58, 1187.18532pt x 241.65282pt>
+File: view.png Graphic file (type png)
+<use view.png>
+Package pdftex.def Info: view.png  used on input line 290.
+(pdftex.def)             Requested size: 505.89pt x 102.97578pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 290--291
+ [] 
+ []
+
+<view1.png, id=59, 504.38437pt x 208.52907pt>
+File: view1.png Graphic file (type png)
+<use view1.png>
+Package pdftex.def Info: view1.png  used on input line 300.
+(pdftex.def)             Requested size: 216.81pt x 89.6371pt.
+<history.png, id=60, 1181.91562pt x 121.20282pt>
+File: history.png Graphic file (type png)
+<use history.png>
+Package pdftex.def Info: history.png  used on input line 308.
+(pdftex.def)             Requested size: 505.89pt x 51.87761pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 308--309
+ [] 
+ []
+
+[11 <./database.png> <./view.png> <./view1.png>]
+<category.png, id=64, 1181.16281pt x 552.56438pt>
+File: category.png Graphic file (type png)
+<use category.png>
+Package pdftex.def Info: category.png  used on input line 316.
+(pdftex.def)             Requested size: 505.89pt x 236.66216pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 316--317
+ [] 
+ []
+
+<status.png, id=65, 1168.365pt x 490.08093pt>
+File: status.png Graphic file (type png)
+<use status.png>
+Package pdftex.def Info: status.png  used on input line 325.
+(pdftex.def)             Requested size: 505.89pt x 212.19638pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 325--326
+ [] 
+ []
+
+<status2.png, id=66, 1173.63469pt x 511.9125pt>
+File: status2.png Graphic file (type png)
+<use status2.png>
+Package pdftex.def Info: status2.png  used on input line 333.
+(pdftex.def)             Requested size: 505.89pt x 220.65706pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 333--334
+ [] 
+ []
+
+[12 <./history.png> <./category.png> <./status.png>]
+<status1.png, id=70, 1197.72469pt x 554.82281pt>
+File: status1.png Graphic file (type png)
+<use status1.png>
+Package pdftex.def Info: status1.png  used on input line 342.
+(pdftex.def)             Requested size: 505.89pt x 234.3362pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 342--343
+ [] 
+ []
+
+<level.png, id=71, 1174.3875pt x 392.96812pt>
+File: level.png Graphic file (type png)
+<use level.png>
+Package pdftex.def Info: level.png  used on input line 350.
+(pdftex.def)             Requested size: 505.89pt x 169.2788pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 350--351
+ [] 
+ []
+
+[13 <./status2.png> <./status1.png> <./level.png>]
+<mode.png, id=76, 1175.89313pt x 420.06938pt>
+File: mode.png Graphic file (type png)
+<use mode.png>
+Package pdftex.def Info: mode.png  used on input line 359.
+(pdftex.def)             Requested size: 505.89pt x 180.72246pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 359--360
+ [] 
+ []
+
+<priority.png, id=77, 1177.39874pt x 423.08063pt>
+File: priority.png Graphic file (type png)
+<use priority.png>
+Package pdftex.def Info: priority.png  used on input line 368.
+(pdftex.def)             Requested size: 505.89pt x 181.78555pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 368--369
+ [] 
+ []
+
+<priority1.png, id=78, 1190.94937pt x 266.49562pt>
+File: priority1.png Graphic file (type png)
+<use priority1.png>
+Package pdftex.def Info: priority1.png  used on input line 376.
+(pdftex.def)             Requested size: 505.89pt x 113.20016pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 376--377
+ [] 
+ []
+
+<mail1.png, id=79, 1181.91562pt x 514.92375pt>
+File: mail1.png Graphic file (type png)
+<use mail1.png>
+Package pdftex.def Info: mail1.png  used on input line 384.
+(pdftex.def)             Requested size: 505.89pt x 220.39932pt.
+
+Overfull \hbox (22.19316pt too wide) in paragraph at lines 384--385
+ [] 
+ []
+
+[14 <./mode.png> <./priority.png> <./priority1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 391--397
+
+ []
+
+[15 <./mail1.png>] (bare_jrnl.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2254 strings out of 492973
+ 32692 string characters out of 3135909
+ 105993 words of memory out of 3000000
+ 6080 multiletter control sequences out of 15000+200000
+ 7895 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,28p,626b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb>
+Output written on bare_jrnl.pdf (15 pages, 1175607 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

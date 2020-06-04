@@ -1,0 +1,159 @@
+Table 1:
+CREATE TABLE `change1` (
+ `sno` int(11) NOT NULL AUTO_INCREMENT,
+ `ticketno` varchar(50) CHARACTER SET utf8,
+ `status` varchar(50) CHARACTER SET utf8,
+    `mode` varchar(50) CHARACTER SET utf8 ,
+    `priority` varchar(50) CHARACTER SET utf8 ,
+    `location` varchar(50) CHARACTER SET utf8 ,
+    `name` varchar(50) CHARACTER SET utf8 ,
+    `time1` datetime ,
+        `site` varchar(50) CHARACTER SET utf8 ,
+    `technician` varchar(50) CHARACTER SET utf8 ,
+    `type` varchar(50) CHARACTER SET utf8 ,
+    `category` varchar(50) CHARACTER SET utf8 ,
+    `subcategory` varchar(50) CHARACTER SET utf8 ,
+    `item` varchar(50) CHARACTER SET utf8 ,
+    `email` varchar(50) CHARACTER SET utf8 ,
+      `subject` varchar(250) CHARACTER SET utf8 ,
+    `description` varchar(5000) CHARACTER SET utf8 ,
+    `des` varchar(150) CHARACTER SET utf8 ,
+    `file` blob,
+      `resolution` varchar(150) CHARACTER SET utf8 ,
+    `reason` varchar(250) CHARACTER SET utf8 ,
+     PRIMARY KEY (`sno`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+Table:2
+CREATE TABLE `users` (
+ 
+    `username` varchar(50) CHARACTER SET utf8 ,
+    `password` varchar(50) CHARACTER SET utf8 ,
+    `mail` varchar(2000) CHARACTER SET utf8 ,
+    `role` varchar(50) CHARACTER SET utf8 
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+
+Table3:
+CREATE TABLE `incident` (
+ `sno` int(11) NOT NULL AUTO_INCREMENT,
+ `ticketno` varchar(50) CHARACTER SET utf8,
+ `status` varchar(50) CHARACTER SET utf8,
+    `mode` varchar(50) CHARACTER SET utf8 ,
+    `priority` varchar(50) CHARACTER SET utf8 ,
+    `location` varchar(50) CHARACTER SET utf8 ,
+    `name` varchar(50) CHARACTER SET utf8 ,
+        `site` varchar(50) CHARACTER SET utf8 ,
+    `technician` varchar(50) CHARACTER SET utf8 ,
+    `type` varchar(50) CHARACTER SET utf8 ,
+    `category` varchar(50) CHARACTER SET utf8 ,
+    `subcategory` varchar(50) CHARACTER SET utf8 ,
+    `item` varchar(50) CHARACTER SET utf8 ,
+    `email` varchar(50) CHARACTER SET utf8 ,
+      `subject` varchar(250) CHARACTER SET utf8 ,
+    `description` varchar(5000) CHARACTER SET utf8 ,
+    `file` blob,
+      `resolution` varchar(150) CHARACTER SET utf8 ,
+    `reason` varchar(250) CHARACTER SET utf8 ,
+     PRIMARY KEY (`sno`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 4:
+CREATE TABLE `type` (
+ `type_id` int(11) NOT NULL AUTO_INCREMENT,
+ `type_name` varchar(50) CHARACTER SET utf8,
+      PRIMARY KEY (`type_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 5:
+CREATE TABLE `category` (
+ `category_id` int(11) NOT NULL AUTO_INCREMENT,
+ `category_name` varchar(50) CHARACTER SET utf8,
+`type_id` int(11),
+      PRIMARY KEY (`category_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+Table 6: 
+CREATE TABLE `subcategory` (
+ `subcategory_id` int(11) NOT NULL AUTO_INCREMENT,
+ `subcategory_name` varchar(50) CHARACTER SET utf8,
+`category_id` int(11) ,
+      PRIMARY KEY (`subcategory_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+Table 7:
+CREATE TABLE `random` (
+ `sno` int(11) NOT NULL AUTO_INCREMENT,
+ `no` int(11) ,
+      PRIMARY KEY (`sno`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 8:
+CREATE TABLE `email` (
+ 
+ `email` varchar(100) CHARACTER SET utf8,
+ `name` varchar(100) CHARACTER SET utf8
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+
+Table 9:
+CREATE TABLE `status` (
+  `ticketno` varchar(50) CHARACTER SET utf8,
+     `date` date ,
+        `status` varchar(50) CHARACTER SET utf8 
+   
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 10:
+CREATE TABLE `statuslist` (
+ 
+ `status` varchar(150) CHARACTER SET utf8,
+ `description` varchar(150) CHARACTER SET utf8,
+    `timer` varchar(150) CHARACTER SET utf8 
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 11:
+CREATE TABLE `modelist` (
+ 
+ `name` varchar(150) CHARACTER SET utf8,
+ `description` varchar(150) CHARACTER SET utf8
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 12:
+CREATE TABLE `prioritylist` (
+ 
+ `name` varchar(150) CHARACTER SET utf8,
+ `description` varchar(150) CHARACTER SET utf8
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+Table 13:
+CREATE TABLE `mailin` (
+ 
+ `mail` varchar(1000) CHARACTER SET utf8
+    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+Table 14:
+CREATE TABLE `mailout` (
+ 
+ `host1` varchar(150) CHARACTER SET utf8,
+ `host2` varchar(150) CHARACTER SET utf8,
+ `fromname` varchar(150) CHARACTER SET utf8,
+ `replyto` varchar(150) CHARACTER SET utf8,
+ `username` varchar(150) CHARACTER SET utf8,
+ `password` varchar(150) CHARACTER SET utf8,    
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
